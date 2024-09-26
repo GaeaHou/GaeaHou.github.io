@@ -16,6 +16,6 @@ This project was a study of applying transfer learning methods for semantic segm
 
 Here are the files related to this project:
 
-[Report](http://GaeaHou.github.io/files/report1.pdf)) 
+[Report](http://GaeaHou.github.io/files/report1.pdf) 
 
 [Main Reference](http://GaeaHou.github.io/files/reference1.pdf)
