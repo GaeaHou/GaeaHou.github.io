@@ -1,0 +1,16 @@
+<div class="archive__item">
+  <!-- 项目标题 -->
+  <h2 class="archive__item-title">
+    <a href="{{ post.url }}">{{ post.title }}</a>
+  </h2>
+
+  <!-- 项目简短描述 -->
+  {% if post.excerpt %}
+    <p class="archive__item-excerpt">{{ post.excerpt }}</p>
+  {% endif %}
+
+  <!-- 链接到具体项目页面 -->
+  <p>
+    <a href="{{ post.url }}">Read more about this project</a>
+  </p>
+</div>
