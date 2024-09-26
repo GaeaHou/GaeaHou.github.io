@@ -2,7 +2,6 @@
 title: "Project 1"
 collection: teaching
 permalink: /teaching/project_1
-description:"A Multimodal Approach for Domain Adaptation in Point Cloud Semantic Segmentation"
 ---
 
 # A Multimodal Approach for Domain Adaptation in Point Cloud Semantic Segmentation
