@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.projects reversed %}
-  {% include archive-projects.html %}
+!-- 循环遍历所有的 projects 集合 -->
+{% for project in site.projects %}
+  <article class="project-item">
+    <h2><a href="{{ project.url }}">{{ project.title }}</a></h2>
+    <p>{{ project.excerpt }}</p>
+  </article>
 {% endfor %}
