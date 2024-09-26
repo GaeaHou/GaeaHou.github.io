@@ -6,7 +6,7 @@
 
 main:
   - title: "Projects"
-    url: /projects/
+    url: /projects/:path/
 
   - title: "Portfolio"
     url: /portfolio/
