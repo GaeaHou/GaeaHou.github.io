@@ -1,20 +1,22 @@
 ---
-title: "Teaching experience 1"
+title: "Project 1"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/project_1
+description:"A Multimodal Approach for Domain Adaptation in Point Cloud Semantic Segmentation"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+# A Multimodal Approach for Domain Adaptation in Point Cloud Semantic Segmentation
 
-Heading 1
-======
+This project was a study of applying transfer learning methods for semantic segmentation of 3D point clouds. It involves three key areas:
+- Multi-modal learning
+- Point cloud semantic segmentation
+- Domain adaptation
 
-Heading 2
-======
 
-Heading 3
-======
+## Files
+
+Here are the files related to this project:
+
+[Report](http://GaeaHou.github.io/files/report1.pdf)) 
+
+[Main Reference](http://GaeaHou.github.io/files/reference1.pdf)
